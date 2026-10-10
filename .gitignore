@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+.env
+.env.*
+*.sqlite*
+*.db
+*.db-*
+*.log
+*.log.*
+data/
+backups/
+deployment.json
+installation.json
+*-validation.json
+dist/
